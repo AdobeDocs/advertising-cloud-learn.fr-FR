@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # Création de rapports avec les canaux marketing Advertising Cloud (A4AdC)
 
-Découvrez comment les données d’entrée de clics et de vues publicitaires Advertising Cloud fonctionnent avec Adobe Analytics [!UICONTROL Marketing Channels].
+Découvrez le fonctionnement des données d’entrée de clics et de vues publicitaires Advertising Cloud avec Adobe Analytics [!UICONTROL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)

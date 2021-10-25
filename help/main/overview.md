@@ -15,7 +15,7 @@ ht-degree: 30%
 
 # Tutoriels Advertising Cloud
 
-Bienvenue sur le site des Tutorials [!DNL Advertising Cloud]. L’utilisation de ces tutoriels avec la [documentation](https://helpx.adobe.com/support/advertising-cloud.html) vous permettra de mieux comprendre comment utiliser Adobe Advertising Cloud pour obtenir plus rapidement que jamais des informations sur les clients.
+Bienvenue dans la [!DNL Advertising Cloud] Site Tutorials. Utilisation de ces tutoriels avec le [documentation](https://helpx.adobe.com/support/advertising-cloud.html) vous permettra de mieux comprendre comment utiliser Adobe Advertising Cloud pour obtenir plus rapidement que jamais des informations sur les clients.
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
