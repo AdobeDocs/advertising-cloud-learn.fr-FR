@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Advertising Cloud
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Advertising Cloud.
 breadcrumb-title: Tutoriels Advertising Cloud
 solution: Advertising Cloud
-source-git-commit: 0820d9d650e21ca2ebab35efe5400eea7d611d66
+source-git-commit: 3814915ff4ab6709c480812478cb7719f3004a84
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 18%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 0%
 + DSP {#dsp}
    + [Présentation d’Advertising Cloud DSP](/help/dsp/overview.md)
    + [Structure de compte et interface utilisateur](/help/dsp/ui.md)
-   + [Téléchargement en masse de balises tierces](/help/dsp/bulk-upload-third-party-ad-tags.md)
-   + [Utilisation des outils de modification en bloc](/help/dsp/bulk-edit-placement-tools.md)
+   + [Comment télécharger en bloc des balises publicitaires tierces](/help/dsp/bulk-upload-third-party-ad-tags.md)
+   + [Comment modifier des emplacements à l’aide des outils de modification en bloc](/help/dsp/bulk-edit-placement-tools.md)
 + Analytics pour Advertising Cloud {#analytics}
    + [Présentation d’A4AdC](/help/integrations/analytics/intro-a4adc.md)
    + [Création de rapports d’entrée sur le site Advertising Cloud](/help/integrations/analytics/analytics-site-entry-a4adc.md)
