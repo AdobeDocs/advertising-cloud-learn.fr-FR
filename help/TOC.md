@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Advertising Cloud
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Advertising Cloud.
 breadcrumb-title: Tutoriels Advertising Cloud
 solution: Advertising Cloud
-source-git-commit: 02b8109c14e3b42ab7c6149009e6408f8478e251
+source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 17%
+source-wordcount: '110'
+ht-degree: 19%
 
 ---
 
@@ -20,16 +20,16 @@ ht-degree: 17%
    + [Création d’un module](/help/dsp/package-create.md)
    + [Comment modifier des emplacements à l’aide des outils de modification en bloc](/help/dsp/bulk-edit-placement-tools.md)
    + [Comment télécharger en bloc des balises publicitaires tierces](/help/dsp/bulk-upload-third-party-ad-tags.md)
-+ Analytics pour Advertising Cloud {#analytics}
-   + [Présentation d’A4AdC](/help/integrations/analytics/intro-a4adc.md)
++ [!DNL Analytics for Advertising Cloud] {#analytics}
+   + [Introduction à [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/intro-a4adc.md)
    + [Création de rapports d’entrée sur le site Advertising Cloud](/help/integrations/analytics/analytics-site-entry-a4adc.md)
-   + [Création de segments Analytics pour l’activation et la création de rapports](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [Présentation d’Analysis Workspace pour la création de rapports sur les données Advertising Cloud](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [Créer [!DNL Analytics] Segments pour l’activation et la création de rapports](/help/integrations/analytics/analytics-segments-a4adc.md)
+   + [Introduction à [!DNL Analysis Workspace] pour les données Advertising Cloud de création de rapports](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
    + [Reporting avec les canaux marketing Advertising Cloud](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [Création de profils Analytics pour l’activation et la création de rapports Advertising Cloud](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [Créer [!DNL Analytics] Profils d’activation et de création de rapports Advertising Cloud](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Création d’une analyse Campaign de prélancement avec Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Création de tableaux de bord Advertising Cloud avec Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [Création de mesures personnalisées Analytics avec des données Advertising Cloud](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [Créer [!DNL Analytics] Mesures personnalisées avec des données Advertising Cloud](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
