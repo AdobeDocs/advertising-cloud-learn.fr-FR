@@ -1,42 +1,41 @@
 ---
 cloud: Experience Cloud
 product: advertising cloud
-solution-title: Advertising Cloud
+solution-title: Advertising Cloud
 solution-hub-url: https://helpx.adobe.com/support/advertising-cloud.html
-getting-started-title: Prise en main
+getting-started-title: Getting Started
 getting-started-url: https://guided.adobe.com/#recommended/solutions/advertising-cloud
-tutorials-title: Tutoriels
+tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/advertising-cloud/tutorials.html
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/advertising-cloud-learn.fr-FR
+git-repo: https://github.com/AdobeDocs/advertising-cloud-learn.fr-FR
 index: true
 type: Tutorial
-translation-type: tm+mt
 source-git-commit: 2d24640189872abf07b27bdff6974d748073a243
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 4%
+source-wordcount: '130'
+ht-degree: 0%
 
 ---
 
 
 # Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées au niveau des repo qui passent aux fichiers du guide d’utilisateur TOC.md dans le repo. Si vous souhaitez modifier le contenu metadata.md pour n’importe quel guide d’utilisateur, faites-le dans n’importe quel fichier TOC.md.
+Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier le contenu metadata.md pour n’importe quel guide de l’utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-| metadata | ce qu&#39;il fait |
+| metadata | ce qu’il fait |
 |--- |--- |
-| solution-titre | Utilisé dans l’en-tête de l’article en tant que lien |
-| solution-hub-url | Ouvre la page de hub d&#39;aide |
-| solution-icône | Affiche l’icône de solution en regard du titre de la solution. Pas encore mis en oeuvre |
-| getting-started-url | Lien vers la page de prise en main de l’aide |
-| tutorials-url | Lien vers des didacticiels vidéo : didacticiels d’aide ou didacticiels sur l’application KT |
-| niveaux mini-toc | Détermine le nombre de niveaux d’en-tête qui apparaissent dans le rail droit. la valeur par défaut est 2 |
-| git-repo | Spécifie l&#39;emplacement du repo maître pour une utilisation interne |
+| solution-title | Utilisé dans l’en-tête de l’article comme lien |
+| solution-hub-url | Ouvre la page hub helpx |
+| solution-icon | Affiche l’icône de solution en regard du titre de la solution. Pas encore implémenté |
+| getting-started-url | Lien vers la page de prise en main de helpx |
+| tutorials-url | Lien vers des tutoriels vidéo : tutoriels helpx ou KT |
+| mini-toc-levels | Détermine le nombre de niveaux d’en-tête qui apparaissent dans le rail droit. la valeur par défaut est 2 |
+| git-repo | Spécifie l’emplacement du référentiel maître pour une utilisation interne. |
 
 Dans le fichier TOC.md
 
-| metadata | ce qu&#39;il fait |
+| metadata | ce qu’il fait |
 |--- |--- |
-| guide-utilisateur-titre | Utilisé dans l’en-tête de l’article en tant que lien |
-| user-guide-url | Ouvre la page de hub d&#39;aide |
+| user-guide-title | Utilisé dans l’en-tête de l’article comme lien |
+| user-guide-url | Ouvre la page hub helpx |
