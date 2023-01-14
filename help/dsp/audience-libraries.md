@@ -1,16 +1,16 @@
 ---
-title: Bibliothèques d’audiences Advertising Cloud DSP et application du ciblage comportemental
+title: DSP des bibliothèques d’audiences et de l’application du ciblage comportemental
 description: Découvrez les bibliothèques d’audiences réutilisables pour personnaliser le ciblage comportemental.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
 # Bibliothèques d’audiences et application du ciblage comportemental
 
-Découvrez les bibliothèques d’audiences réutilisables pour personnaliser le ciblage comportemental, comment les créer et comment les appliquer à vos emplacements Advertising Cloud DSP.
+Découvrez les bibliothèques d’audiences réutilisables pour personnaliser le ciblage comportemental, comment les créer et comment les appliquer à vos emplacements DSP.
 
 <!--
 >[!VIDEO]()

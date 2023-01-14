@@ -1,36 +1,36 @@
 ---
-user-guide-title: Tutoriels Adobe Advertising Cloud
-user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Advertising Cloud.
-breadcrumb-title: Tutoriels Advertising Cloud
+user-guide-title: Tutorials publicitaires Adobe
+user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Advertising.
+breadcrumb-title: Tutorials publicitaires
 solution: Advertising Cloud
-source-git-commit: 9a309b87baa72d9781ea411a7fca9527d0bb2573
+source-git-commit: 0710a4d7694776d7c29e7821513a4f77a433c5d4
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 17%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Tutoriels Adobe Advertising Cloud {#tutorials}
+# Tutorials publicitaires Adobe {#tutorials}
 
 + [Présentation](overview.md)
 + DSP {#dsp}
-   + [Présentation d’Advertising Cloud DSP](/help/dsp/intro.md)
+   + [Présentation de la DSP de publicité](/help/dsp/intro.md)
    + [Structure de compte et interface utilisateur](/help/dsp/ui.md)
    + [Création d’un module](/help/dsp/package-create.md)
    + [Création d’un emplacement d’affichage standard](/help/dsp/placement-create.md)
    + [Comment modifier des emplacements à l’aide des outils de modification en bloc](/help/dsp/bulk-edit-placement-tools.md)
    + [Comment télécharger en bloc des balises publicitaires tierces](/help/dsp/bulk-upload-third-party-ad-tags.md)
-+ [!DNL Analytics for Advertising Cloud] {#analytics}
-   + [Introduction à [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/intro-a4adc.md)
-   + [Création de rapports d’entrée sur le site Advertising Cloud](/help/integrations/analytics/analytics-site-entry-a4adc.md)
++ [!DNL Analytics for Adobe Advertising] {#analytics}
+   + [Introduction à [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
+   + [Créer des rapports d’entrée sur le site Adobe Advertising](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [Créer [!DNL Analytics] Segments pour l’activation et la création de rapports](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [Introduction à [!DNL Analysis Workspace] pour les données Advertising Cloud de création de rapports](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
-   + [Reporting avec les canaux marketing Advertising Cloud](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [Créer [!DNL Analytics] Profils d’activation et de création de rapports Advertising Cloud](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [Introduction à [!DNL Analysis Workspace] pour la création de rapports sur les données publicitaires d’Adobe](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [Utilisation [!DNL Marketing Channels] pour la création de rapports Adobe Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
+   + [Créer [!DNL Analytics] Profils d’activation et de création de rapports d’Adobe Advertising](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Création d’une analyse Campaign de prélancement avec Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
-   + [Création de tableaux de bord Advertising Cloud avec Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [Créer [!DNL Analytics] Mesures personnalisées avec des données Advertising Cloud](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [Création de tableaux de bord Advertising Adobe avec Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
+   + [Créer [!DNL Analytics] Mesures personnalisées avec des données publicitaires d’Adobe](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
@@ -38,4 +38,4 @@ ht-degree: 17%
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
 -->
 
-<!-- If I move the "Analytics for Advertising Cloud chapter into a larger Integrations chapter, then I'll need to set up redirects by copying a CSV file into this repo and populating it for those legacy file names. -->
+<!-- If I move the "Analytics for Advertising chapter into a larger Integrations chapter, then I'll need to set up redirects by copying a CSV file into this repo and populating it for those legacy file names. -->

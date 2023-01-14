@@ -1,15 +1,16 @@
 ---
-title: Comment modifier des emplacements à l’aide des outils de modification en bloc d’Advertising Cloud DSP
+title: Comment modifier des emplacements à l’aide des outils de modification en bloc pour DSP
 description: Découvrez comment modifier les paramètres de plusieurs emplacements à la fois.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+exl-id: 3c9abc04-0261-4ba1-a19d-68a6d862f660
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
 # Comment modifier des emplacements à l’aide des outils de modification en bloc
 
-Découvrez comment modifier les paramètres de plusieurs emplacements à la fois dans Advertising Cloud DSP.
+Découvrez comment modifier les paramètres de plusieurs emplacements à la fois dans DSP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339205)

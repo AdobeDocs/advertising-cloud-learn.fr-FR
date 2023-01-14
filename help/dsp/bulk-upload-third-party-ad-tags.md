@@ -1,7 +1,8 @@
 ---
-title: Comment télécharger en bloc des balises publicitaires tierces pour Advertising Cloud DSP
+title: Téléchargement en masse de balises d’annonce tierces pour DSP
 description: Découvrez comment charger plusieurs balises publicitaires tierces à la fois.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+exl-id: 1681440a-4b20-4819-a649-8754a2d143bc
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%

@@ -1,23 +1,23 @@
 ---
-title: Tutoriels Advertising Cloud
-description: Ensemble de vidéos et de tutoriels pour Adobe Advertising Cloud.
+title: Tutorials publicitaires Adobe
+description: Ensemble de vidéos et de tutoriels pour Adobe Advertising.
 exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
-source-git-commit: 43ddfe0e493296bd8e8cd415627a38d78fb55f9c
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '59'
+ht-degree: 15%
 
 ---
 
-# Tutoriels Advertising Cloud
+# Tutorials publicitaires Adobe
 
-Ces tutoriels vidéo, ainsi que le [documentation](https://experienceleague.adobe.com/docs/advertising-cloud.html), vous aidera à utiliser Advertising Cloud pour obtenir plus rapidement que jamais des informations sur les clients.
+Ces tutoriels vidéo, ainsi que le [documentation](https://experienceleague.adobe.com/docs/advertising-cloud.html), vous aidera à utiliser Adobe Advertising pour obtenir plus rapidement que jamais des informations sur les clients.
 
 Des vidéos sont disponibles pour :
 
-* Advertising Cloud DSP
+* DSP de publicité
 
-* Intégrations d’Advertising Cloud DSP et de Advertising Cloud Search à d’autres produits et services Adobe Experience Cloud
+* Intégrations d’Advertising DSP et d’Advertising Search à d’autres produits et services Adobe Experience Cloud
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content

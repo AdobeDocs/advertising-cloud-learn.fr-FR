@@ -1,18 +1,18 @@
 ---
-title: Création de rapports d’entrée sur le site Advertising Cloud
-description: Découvrez comment créer un rapport d’entrée sur le site Advertising Cloud afin de surveiller les influences (jour de la semaine, heure de la journée, navigateur et zone géographique).
+title: Créer des rapports d’entrée sur le site Adobe Advertising
+description: Découvrez comment créer un rapport d’entrée sur le site Adobe Advertising pour surveiller les influences du jour de la semaine, de l’heure de la journée, du navigateur et géographique.
 exl-id: a0a4e465-4e4b-4b72-b6dc-cc899b233379
-source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Création de rapports d’entrée sur le site Advertising Cloud
+# Créer des rapports d’entrée sur le site Adobe Advertising
 
-*Annonceurs avec[!DNL Adobe Analytics for Advertising Cloud]*
+*Annonceurs avec[!DNL Adobe Analytics for Adobe Advertising]*
 
-Découvrez comment créer un rapport d’entrée sur le site Advertising Cloud afin de surveiller les influences (jour de la semaine, heure de la journée, navigateur et zone géographique).
+Découvrez comment créer un rapport d’entrée sur le site Adobe Advertising pour surveiller les influences du jour de la semaine, de l’heure de la journée, du navigateur et géographique.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33921)
